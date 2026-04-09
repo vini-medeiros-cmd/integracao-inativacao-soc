@@ -171,7 +171,7 @@ Para adicionar ou remover empresas, edite a lista diretamente no script.
 
 ---
 
-## Segurança
+## Recomendações de Segurança
 
 > **Nunca commite credenciais no repositório.**
 
