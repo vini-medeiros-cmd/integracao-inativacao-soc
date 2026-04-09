@@ -49,7 +49,7 @@ EMPRESAS_EXCECAO = [
 
 # Modo teste
 CPF_TESTE     = os.getenv("SOC_CPF_TESTE", None)          # None = todos ou um CPF específico.
-DRY_RUN       = os.getenv("SOC_DRY_RUN", "false").lower() == "true"
+DRY_RUN = False # True = Teste | False = Produção
 DATA_DEMISSAO = datetime.now().strftime("%d/%m/%Y")
 
 # Validação
