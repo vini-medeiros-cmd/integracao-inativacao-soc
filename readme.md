@@ -18,11 +18,9 @@ Script Python para automatizar a inativação em massa de funcionários no siste
                     ↓
     [ED - Cadastro de Funcionários por situação (FOL)] - JSON -► Funcionários ativos
                     ↓
-                    ↓
     Para cada funcionário ativo:
                     ↓
     [WebService Modelo 2 - FuncionarioModelo2Ws] - SOAP -► INATIVO
-                    ↓
                     ↓
       Log_Inativacao_YYYYMMDD_HHMMSS.xlsx
 ```
